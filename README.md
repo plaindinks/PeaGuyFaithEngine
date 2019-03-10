@@ -1,8 +1,8 @@
-#Pac Guy and Pea-Guy Faith Engine
+# Pac Guy and Pea-Guy Faith Engine
 
 This is an engine designed to aid the creation of Pac Guy/Pea-Guy fangames.
 
-##Features
+## Features
 
 * A level template (Ever growing)
 * A boss template (To be expanded upon)
@@ -14,16 +14,16 @@ This is an engine designed to aid the creation of Pac Guy/Pea-Guy fangames.
 * An organized editor
 * A splash screen for use in fangames
 
-##Requirements for usage
+## Requirements for usage
 
 - A PC powerful enough to run Clickteam Fusion 2.5
 - Clickteam Fusion 2.5 (Can be gotten from Steam or via Clickteam's website)
 - Uttimate Fullscreen Extension for Clickteam Fusion (Currently being tested for potential usage)
 
-##Extra Information
+## Extra Information
 
 This engine is based off of source code provided on R.I.Pea-Guy. R.I.Pea-Guy may be downloaded as freeware.
 
-##License
+## License
 
 This engine is licensed under the Non-Profit Open Source License 3.0. See LICENSE for details.
