@@ -13,6 +13,7 @@ This is an engine designed to aid the creation of Pac Guy/Pea-Guy fangames.
 * A system for saving games.
 * An organized editor
 * A splash screen for use in fangames
+* Save file support (Work in progress?)
 
 ## Requirements for usage
 
@@ -22,7 +23,8 @@ This is an engine designed to aid the creation of Pac Guy/Pea-Guy fangames.
 
 ## Extra Information
 
-This engine is based off of source code provided on R.I.Pea-Guy. R.I.Pea-Guy may be downloaded as freeware.
+This engine is based off of source code provided on R.I.Pea-Guy. R.I.Pea-Guy may be downloaded as freeware at:
+https://archive.org/details/ripeaguy
 
 ## License
 
