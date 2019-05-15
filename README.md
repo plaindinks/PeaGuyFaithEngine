@@ -13,6 +13,7 @@ This is an engine designed to aid the creation of Pac Guy/Pea-Guy fangames.
 * A system for saving games.
 * An organized editor
 * A splash screen for use in fangames
+* Save Editor (WIP)
 
 ##Requirements for usage
 - A PC powerful enough to run Clickteam Fusion 2.5
