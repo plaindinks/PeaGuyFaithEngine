@@ -16,12 +16,15 @@ This is an engine designed to aid the creation of Pac Guy/Pea-Guy fangames.
 * Save Editor (WIP)
 
 ##Requirements for usage
+
 - A PC powerful enough to run Clickteam Fusion 2.5
 - Clickteam Fusion 2.5 (Can be gotten from Steam or via Clickteam's website)
 - Uttimate Fullscreen Extension for Clickteam Fusion (Currently being tested for potential usage)
 
 ##Extra Information
+
 This engine is based off of source code provided on R.I.Pea-Guy. R.I.Pea-Guy may be downloaded as freeware.
 
 ##License
+
 This engine is licensed under the Non-Profit Open Source License 3.0.
